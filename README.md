@@ -4,7 +4,7 @@ Based on **https://github.com/leokhoa/laragon.<br>**
 ![laragon-v4.png](laragon-v4.png)
 
 This is my laragon suite (webserver+rdbms) settings for version 4.0.15.<br>
-Place it in Drive D of your computer.
+Clone this repo in root Drive D: of your computer.<br>
 MySQL and MariaDB data can exist without rewriting each other in D:\laragon\data.<br>
 But PostgreSQL data must be renamed, so that it can only be 1 "postgresql" folder in D:\laragon\data.<br>
 
