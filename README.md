@@ -17,7 +17,7 @@ D:\laragon\bin\apache\httpd-2.4.54-win64-VC15 (default)<br>
 D:\laragon\bin\apache\httpd-2.4.55-win64-VS16<br>
 D:\laragon\bin\apache\httpd-2.4.55-win64-VS17<br>
 
-**Included NGIND:<br>**
+**Included NGINX:<br>**
 D:\laragon\bin\nginx\nginx-1.18.0<br>
 D:\laragon\bin\nginx\nginx-1.20.2<br>
 D:\laragon\bin\nginx\nginx-1.21.4<br>
