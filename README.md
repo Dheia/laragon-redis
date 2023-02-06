@@ -1,4 +1,4 @@
-# laragon
+# laragon (webserver+rdbms)
 Based on **https://github.com/leokhoa/laragon.<br>**
 
 ![laragon-v4.png](laragon-v4.png)
