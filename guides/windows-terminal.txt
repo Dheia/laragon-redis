@@ -1,0 +1,9 @@
+{
+    "commandline": "cmd /k D:\\laragon\\bin\\cmder\\vendor\\init.bat",
+    "guid": "{396817ac-381c-4896-a0cf-7c8ea12adf87}",
+    "hidden": false,
+    "icon": "D:\\laragon\\laragon.png",
+    "name": "Laragon Shell",
+    "startingDirectory": "%USERPROFILE%",
+    "tabTitle": "Laragon"
+}

@@ -1,0 +1,1 @@
+Khusus untuk perpindahan versi PostgreSQL, jangan lupa rename datadir PostgreSQL ke postgresql. Dan rename datadir lama ke postgresql-version.

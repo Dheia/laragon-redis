@@ -1,0 +1,27 @@
+2021-07-28 05:21:44,866 INFO 1 StartupController Starting Tail Blazer version v0.9.0.536
+2021-07-28 05:21:44,879 INFO 1 StartupController at 27/07/2021 22:21:44
+2021-07-28 05:21:45,063 INFO 1 FileSettingsStore Settings folder is C:\Users\Rescenic\AppData\Local\TailBlazer
+2021-07-28 05:21:45,104 INFO 1 FileSettingsStore Reading setting for GeneralOptions
+2021-07-28 05:21:45,111 INFO 1 FileSettingsStore Reading setting for RecentFiles
+2021-07-28 05:21:45,114 INFO 1 FileSettingsStore Reading setting for BucketOfState
+2021-07-28 05:21:45,116 INFO 1 FileSettingsStore Reading setting for RecentSearch
+2021-07-28 05:21:45,118 INFO 1 FileSettingsStore Reading setting for TextAssociation
+2021-07-28 05:21:45,120 INFO 1 FileSettingsStore Reading setting for GlobalSearch
+2021-07-28 05:21:45,125 ERROR 1 SearchState[] Problem reading GlobalSearch
+System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   at System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   at TailBlazer.Views.Tail.SearchMetadataToStateConverter.Convert(State state)
+   at TailBlazer.Domain.Settings.Setting`1..ctor(ILogger logger, ISettingsStore settingsStore, IConverter`1 converter, String key) in C:\projects\tailblazer\Source\TailBlazer.Domain\Settings\Setting.cs:line 33
+2021-07-28 05:21:45,238 INFO 1 StartupController Starting complete
+2021-07-28 05:21:47,164 INFO 1 FileSettingsStore Reading setting for _LayoutName
+2021-07-28 05:21:51,810 INFO 1 FileSettingsStore Creating setting for GeneralOptions
+2021-07-28 05:21:51,810 INFO 1 FileSettingsStore Writing settings for GeneralOptions to C:\Users\Rescenic\AppData\Local\TailBlazer\GeneralOptions.setting
+2021-07-28 05:21:51,814 INFO 1 FileSettingsStore Setting  for GeneralOptions committed
+2021-07-28 05:22:01,709 INFO 1 WindowViewModel Window is closing. 0 view to close
+2021-07-28 05:22:01,729 INFO 1 FileSettingsStore Creating setting for _LayoutName
+2021-07-28 05:22:01,729 INFO 1 FileSettingsStore Writing settings for _LayoutName to C:\Users\Rescenic\AppData\Local\TailBlazer\_LayoutName.setting
+2021-07-28 05:22:01,730 INFO 1 FileSettingsStore Setting  for _LayoutName committed

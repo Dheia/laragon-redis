@@ -1,0 +1,45 @@
+ngrok v3.
+
+In laragon terminal run ngrok start project (start tunnel)
+or equivalent ngrok http https://project.test --host-header rewrite
+Example configuration:
+
+# C:\Users\<username>\AppData\Local\ngrok\ngrok.yml
+version: "2"
+authtoken: __ToKeN__
+tunnels:
+  # Forwarding -> https://project.test:443
+  project:
+    addr: https://project.test  # project address w/out port number
+    proto: http
+    host_header: rewrite        # add this to not redirect to "https://localhost"
+# D:\Laragon\etc\apache2\sites-enabled\auto.project.test.conf
+# If you want to use SSL, enable it by going to Menu > Apache > SSL > Enabled
+define ROOT "D:/Laragon/www/project"
+define SITE "project.test"
+
+<VirtualHost *:80>
+    RewriteEngine On
+    RewriteRule ^(.*)$ https://%{HTTP_HOST}$1 [R=301,L]
+    DocumentRoot "${ROOT}"
+    ServerName ${SITE}
+    ServerAlias *.${SITE}
+    <Directory "${ROOT}">
+        AllowOverride All
+        Require all granted
+    </Directory>
+</VirtualHost>
+
+<VirtualHost *:443>
+    DocumentRoot "${ROOT}"
+    ServerName ${SITE}
+    ServerAlias *.${SITE}
+    <Directory "${ROOT}">
+        AllowOverride All
+        Require all granted
+    </Directory>
+
+    SSLEngine on
+    SSLCertificateFile      D:/Laragon/etc/ssl/laragon.crt
+    SSLCertificateKeyFile   D:/Laragon/etc/ssl/laragon.key
+</VirtualHost>

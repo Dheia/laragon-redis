@@ -1,0 +1,290 @@
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,53
+ColsVisible_connform.ListSessions<|||>1<|||>0
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+CoolBand0Index<|||>3<|||>0
+CoolBand0Break<|||>3<|||>1
+CoolBand0Width<|||>3<|||>928
+CoolBand1Index<|||>3<|||>1
+CoolBand1Break<|||>3<|||>1
+CoolBand1Width<|||>3<|||>928
+MainWinOnMonitor<|||>3<|||>0
+MainWinTop<|||>3<|||>22
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,428
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,428,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,298
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,368
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+LastSessions<|||>1<|||>root@mariadb-10.10
+LastActiveSession<|||>1<|||>root@mariadb-10.10
+ColWidths_frmTableEditor.listColumns<|||>1<|||>26,100,156,90,60,65,50,119,130,140,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>434,100,80,120
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2,3
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>200,80,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+MainWinLeft<|||>3<|||>89
+UpdatecheckLastrun<|||>1<|||>2020-04-05 08:51:22
+SQL Attr Comment Foreground<|||>3<|||>8421504
+SQL Attr Comment Background<|||>3<|||>536870911
+SQL Attr Comment Style<|||>3<|||>2
+SQL Attr ConditionalComment Foreground<|||>3<|||>8421504
+SQL Attr ConditionalComment Background<|||>3<|||>536870911
+SQL Attr ConditionalComment Style<|||>3<|||>2
+SQL Attr ConsoleOutput Foreground<|||>3<|||>536870911
+SQL Attr ConsoleOutput Background<|||>3<|||>536870911
+SQL Attr ConsoleOutput Style<|||>3<|||>5
+SQL Attr DataType Foreground<|||>3<|||>128
+SQL Attr DataType Background<|||>3<|||>536870911
+SQL Attr DataType Style<|||>3<|||>1
+SQL Attr DefaultPackages Foreground<|||>3<|||>536870911
+SQL Attr DefaultPackages Background<|||>3<|||>536870911
+SQL Attr DefaultPackages Style<|||>3<|||>1
+SQL Attr DelimitedIdentifier Foreground<|||>3<|||>32896
+SQL Attr DelimitedIdentifier Background<|||>3<|||>536870911
+SQL Attr DelimitedIdentifier Style<|||>3<|||>0
+SQL Attr Exception Foreground<|||>3<|||>536870911
+SQL Attr Exception Background<|||>3<|||>536870911
+SQL Attr Exception Style<|||>3<|||>2
+SQL Attr Function Foreground<|||>3<|||>8388608
+SQL Attr Function Background<|||>3<|||>536870911
+SQL Attr Function Style<|||>3<|||>1
+SQL Attr Identifier Foreground<|||>3<|||>32896
+SQL Attr Identifier Background<|||>3<|||>536870911
+SQL Attr Identifier Style<|||>3<|||>0
+SQL Attr Key Foreground<|||>3<|||>16711680
+SQL Attr Key Background<|||>3<|||>536870911
+SQL Attr Key Style<|||>3<|||>1
+SQL Attr Number Foreground<|||>3<|||>8388736
+SQL Attr Number Background<|||>3<|||>536870911
+SQL Attr Number Style<|||>3<|||>0
+SQL Attr PLSQL-ReservedWord Foreground<|||>3<|||>536870911
+SQL Attr PLSQL-ReservedWord Background<|||>3<|||>536870911
+SQL Attr PLSQL-ReservedWord Style<|||>3<|||>1
+SQL Attr ProcName Foreground<|||>3<|||>536870911
+SQL Attr ProcName Background<|||>3<|||>536870911
+SQL Attr ProcName Style<|||>3<|||>0
+SQL Attr Space Foreground<|||>3<|||>536870911
+SQL Attr Space Background<|||>3<|||>536870911
+SQL Attr Space Style<|||>3<|||>0
+SQL Attr SQLPlus-Command Foreground<|||>3<|||>536870911
+SQL Attr SQLPlus-Command Background<|||>3<|||>536870911
+SQL Attr SQLPlus-Command Style<|||>3<|||>1
+SQL Attr String Foreground<|||>3<|||>32768
+SQL Attr String Background<|||>3<|||>536870911
+SQL Attr String Style<|||>3<|||>0
+SQL Attr Symbol Foreground<|||>3<|||>16711680
+SQL Attr Symbol Background<|||>3<|||>536870911
+SQL Attr Symbol Style<|||>3<|||>0
+SQL Attr TableName Foreground<|||>3<|||>16711935
+SQL Attr TableName Background<|||>3<|||>536870911
+SQL Attr TableName Style<|||>3<|||>0
+SQL Attr Variable Foreground<|||>3<|||>8388736
+SQL Attr Variable Background<|||>3<|||>536870911
+SQL Attr Variable Style<|||>3<|||>0
+Language<|||>1<|||>en
+FieldEditor_Set<|||>3<|||>1
+SessionManager_WindowLeft<|||>3<|||>304
+SessionManager_WindowTop<|||>3<|||>150
+MainWinMaximized<|||>3<|||>1
+dbtreewidth<|||>3<|||>275
+CreateDbCollation<|||>1<|||>utf8mb4_bin
+ExportSQL_Filenames<|||>1<|||>C:\Users\Rescenic\Downloads\db_presensi_rsmb-heidisql.sql<{{{><}}}>
+ExportSQL_CreateDatabases<|||>3<|||>1
+ExportSQL_CreateTables<|||>3<|||>1
+ExportSQLRemoveDefiner<|||>3<|||>0
+SQLFile0<|||>1<|||>D:\laragon\bin\heidisql\Backups\query-tab-2022-06-29_04-48-24-634.sql
+ColWidths_frmTableEditor.listCheckConstraints<|||>1<|||>200,420
+ColsVisible_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColPositions_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColSort_frmTableEditor.listCheckConstraints<|||>1<|||>-1,0
+Servers\mysql-5.7.29\SessionCreated<|||>1<|||>2017-02-14 13:41:54
+Servers\mysql-5.7.29\Host<|||>1<|||>localhost
+Servers\mysql-5.7.29\WindowsAuth<|||>3<|||>0
+Servers\mysql-5.7.29\User<|||>1<|||>root
+Servers\mysql-5.7.29\Password<|||>1<|||>3F7A6D7B6B6D7636716B3F8
+Servers\mysql-5.7.29\LoginPrompt<|||>3<|||>0
+Servers\mysql-5.7.29\Port<|||>1<|||>3306
+Servers\mysql-5.7.29\NetType<|||>3<|||>0
+Servers\mysql-5.7.29\Compressed<|||>3<|||>0
+Servers\mysql-5.7.29\LocalTimeZone<|||>3<|||>0
+Servers\mysql-5.7.29\QueryTimeout<|||>3<|||>0
+Servers\mysql-5.7.29\KeepAlive<|||>3<|||>20
+Servers\mysql-5.7.29\FullTableStatus<|||>3<|||>1
+Servers\mysql-5.7.29\Databases<|||>1<|||>
+Servers\mysql-5.7.29\Comment<|||>1<|||>
+Servers\mysql-5.7.29\StartupScriptFilename<|||>1<|||>
+Servers\mysql-5.7.29\SSHtunnelHost<|||>1<|||>
+Servers\mysql-5.7.29\SSHtunnelHostPort<|||>3<|||>0
+Servers\mysql-5.7.29\SSHtunnelUser<|||>1<|||>
+Servers\mysql-5.7.29\SSHtunnelPassword<|||>1<|||>6
+Servers\mysql-5.7.29\SSHtunnelTimeout<|||>3<|||>4
+Servers\mysql-5.7.29\SSHtunnelPrivateKey<|||>1<|||>
+Servers\mysql-5.7.29\SSHtunnelPort<|||>3<|||>3307
+Servers\mysql-5.7.29\SSL_Active<|||>3<|||>0
+Servers\mysql-5.7.29\SSL_Key<|||>1<|||>
+Servers\mysql-5.7.29\SSL_Cert<|||>1<|||>
+Servers\mysql-5.7.29\SSL_CA<|||>1<|||>
+Servers\mysql-5.7.29\SSL_Cipher<|||>1<|||>
+Servers\mysql-5.7.29\RefusedCount<|||>3<|||>9
+Servers\mysql-5.7.29\ServerVersionFull<|||>1<|||>5.7.29 - MySQL Community Server (GPL)
+Servers\mysql-5.7.29\ConnectCount<|||>3<|||>8
+Servers\mysql-5.7.29\ServerVersion<|||>3<|||>50729
+Servers\mysql-5.7.29\LastConnect<|||>1<|||>2022-06-29 04:50:01
+Servers\mysql-5.7.29\lastUsedDB<|||>1<|||>db_presensi_rsmb
+Servers\mysql-5.7.29\CleartextPluginEnabled<|||>3<|||>0
+Servers\mysql-5.7.29\Library<|||>1<|||>libmysql.dll
+Servers\mysql-5.7.29\TreeBackground<|||>3<|||>536870911
+Servers\mysql-5.7.29\SshExecutable<|||>1<|||>plink.exe
+Servers\mysql-5.7.29\IgnoreDatabasePattern<|||>1<|||>
+Servers\mysql-5.7.29\LogFileDdl<|||>3<|||>0
+Servers\mysql-5.7.29\LogFileDml<|||>3<|||>0
+Servers\mysql-5.7.29\LogFilePath<|||>1<|||>C:\Users\Rescenic\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\postgresql-9.4.26\SessionCreated<|||>1<|||>2021-04-25 06:31:45
+Servers\postgresql-9.4.26\Host<|||>1<|||>127.0.0.1
+Servers\postgresql-9.4.26\WindowsAuth<|||>3<|||>0
+Servers\postgresql-9.4.26\CleartextPluginEnabled<|||>3<|||>0
+Servers\postgresql-9.4.26\User<|||>1<|||>postgres
+Servers\postgresql-9.4.26\Password<|||>1<|||>5
+Servers\postgresql-9.4.26\LoginPrompt<|||>3<|||>0
+Servers\postgresql-9.4.26\Port<|||>1<|||>5432
+Servers\postgresql-9.4.26\NetType<|||>3<|||>8
+Servers\postgresql-9.4.26\Compressed<|||>3<|||>0
+Servers\postgresql-9.4.26\LocalTimeZone<|||>3<|||>0
+Servers\postgresql-9.4.26\QueryTimeout<|||>3<|||>30
+Servers\postgresql-9.4.26\KeepAlive<|||>3<|||>20
+Servers\postgresql-9.4.26\FullTableStatus<|||>3<|||>1
+Servers\postgresql-9.4.26\Databases<|||>1<|||>
+Servers\postgresql-9.4.26\Library<|||>1<|||>libpq.dll
+Servers\postgresql-9.4.26\Comment<|||>1<|||>
+Servers\postgresql-9.4.26\StartupScriptFilename<|||>1<|||>
+Servers\postgresql-9.4.26\TreeBackground<|||>3<|||>536870911
+Servers\postgresql-9.4.26\SSHtunnelHost<|||>1<|||>
+Servers\postgresql-9.4.26\SSHtunnelHostPort<|||>3<|||>22
+Servers\postgresql-9.4.26\SSHtunnelUser<|||>1<|||>
+Servers\postgresql-9.4.26\SSHtunnelPassword<|||>1<|||>6
+Servers\postgresql-9.4.26\SSHtunnelTimeout<|||>3<|||>4
+Servers\postgresql-9.4.26\SSHtunnelPrivateKey<|||>1<|||>
+Servers\postgresql-9.4.26\SSHtunnelPort<|||>3<|||>3307
+Servers\postgresql-9.4.26\SSL_Active<|||>3<|||>0
+Servers\postgresql-9.4.26\SSL_Key<|||>1<|||>
+Servers\postgresql-9.4.26\SSL_Cert<|||>1<|||>
+Servers\postgresql-9.4.26\SSL_CA<|||>1<|||>
+Servers\postgresql-9.4.26\SSL_Cipher<|||>1<|||>
+Servers\postgresql-9.4.26\IgnoreDatabasePattern<|||>1<|||>^pg_temp_\d
+Servers\postgresql-9.4.26\LogFileDdl<|||>3<|||>0
+Servers\postgresql-9.4.26\LogFileDml<|||>3<|||>0
+Servers\postgresql-9.4.26\LogFilePath<|||>1<|||>C:\Users\Rescenic\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\postgresql-9.4.26\ServerVersionFull<|||>1<|||>PostgreSQL 9.4.26, compiled by Visual C++ build 1800, 64-bit
+Servers\postgresql-9.4.26\ConnectCount<|||>3<|||>2
+Servers\postgresql-9.4.26\ServerVersion<|||>3<|||>90426
+Servers\postgresql-9.4.26\LastConnect<|||>1<|||>2021-04-25 06:32:38
+Servers\postgresql-9.4.26\lastUsedDB<|||>1<|||>information_schema
+Servers\root@192.168.1.12\SessionCreated<|||>1<|||>2022-06-29 04:48:29
+Servers\root@192.168.1.12\Host<|||>1<|||>192.168.1.12
+Servers\root@192.168.1.12\WindowsAuth<|||>3<|||>0
+Servers\root@192.168.1.12\CleartextPluginEnabled<|||>3<|||>0
+Servers\root@192.168.1.12\User<|||>1<|||>root
+Servers\root@192.168.1.12\Password<|||>1<|||>6974756975697A71693D3B8
+Servers\root@192.168.1.12\LoginPrompt<|||>3<|||>0
+Servers\root@192.168.1.12\Port<|||>1<|||>3306
+Servers\root@192.168.1.12\NetType<|||>3<|||>0
+Servers\root@192.168.1.12\Compressed<|||>3<|||>0
+Servers\root@192.168.1.12\LocalTimeZone<|||>3<|||>0
+Servers\root@192.168.1.12\QueryTimeout<|||>3<|||>30
+Servers\root@192.168.1.12\KeepAlive<|||>3<|||>20
+Servers\root@192.168.1.12\FullTableStatus<|||>3<|||>1
+Servers\root@192.168.1.12\Databases<|||>1<|||>
+Servers\root@192.168.1.12\Library<|||>1<|||>libmariadb.dll
+Servers\root@192.168.1.12\Comment<|||>1<|||>
+Servers\root@192.168.1.12\StartupScriptFilename<|||>1<|||>
+Servers\root@192.168.1.12\TreeBackground<|||>3<|||>536870911
+Servers\root@192.168.1.12\SshExecutable<|||>1<|||>
+Servers\root@192.168.1.12\SSHtunnelHost<|||>1<|||>
+Servers\root@192.168.1.12\SSHtunnelHostPort<|||>3<|||>22
+Servers\root@192.168.1.12\SSHtunnelUser<|||>1<|||>
+Servers\root@192.168.1.12\SSHtunnelPassword<|||>1<|||>9
+Servers\root@192.168.1.12\SSHtunnelTimeout<|||>3<|||>4
+Servers\root@192.168.1.12\SSHtunnelPrivateKey<|||>1<|||>
+Servers\root@192.168.1.12\SSHtunnelPort<|||>3<|||>3307
+Servers\root@192.168.1.12\SSL_Active<|||>3<|||>0
+Servers\root@192.168.1.12\SSL_Key<|||>1<|||>
+Servers\root@192.168.1.12\SSL_Cert<|||>1<|||>
+Servers\root@192.168.1.12\SSL_CA<|||>1<|||>
+Servers\root@192.168.1.12\SSL_Cipher<|||>1<|||>
+Servers\root@192.168.1.12\IgnoreDatabasePattern<|||>1<|||>
+Servers\root@192.168.1.12\LogFileDdl<|||>3<|||>0
+Servers\root@192.168.1.12\LogFileDml<|||>3<|||>0
+Servers\root@192.168.1.12\LogFilePath<|||>1<|||>C:\Users\Rescenic\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\root@192.168.1.12\ServerVersionFull<|||>1<|||>10.4.22-MariaDB - MariaDB Server
+Servers\root@192.168.1.12\ConnectCount<|||>3<|||>3
+Servers\root@192.168.1.12\ServerVersion<|||>3<|||>100422
+Servers\root@192.168.1.12\LastConnect<|||>1<|||>2022-06-29 04:51:40
+Servers\root@192.168.1.12\lastUsedDB<|||>1<|||>db_presensi_rsmb
+Servers\root@mariadb-10.10\SessionCreated<|||>1<|||>2023-01-21 21:21:51
+Servers\root@mariadb-10.10\Host<|||>1<|||>127.0.0.1
+Servers\root@mariadb-10.10\WindowsAuth<|||>3<|||>0
+Servers\root@mariadb-10.10\CleartextPluginEnabled<|||>3<|||>0
+Servers\root@mariadb-10.10\User<|||>1<|||>root
+Servers\root@mariadb-10.10\Password<|||>1<|||>5
+Servers\root@mariadb-10.10\LoginPrompt<|||>3<|||>0
+Servers\root@mariadb-10.10\Port<|||>1<|||>3306
+Servers\root@mariadb-10.10\NetType<|||>3<|||>0
+Servers\root@mariadb-10.10\Compressed<|||>3<|||>0
+Servers\root@mariadb-10.10\LocalTimeZone<|||>3<|||>0
+Servers\root@mariadb-10.10\QueryTimeout<|||>3<|||>30
+Servers\root@mariadb-10.10\KeepAlive<|||>3<|||>20
+Servers\root@mariadb-10.10\FullTableStatus<|||>3<|||>1
+Servers\root@mariadb-10.10\Databases<|||>1<|||>
+Servers\root@mariadb-10.10\Library<|||>1<|||>libmariadb.dll
+Servers\root@mariadb-10.10\Comment<|||>1<|||>
+Servers\root@mariadb-10.10\StartupScriptFilename<|||>1<|||>
+Servers\root@mariadb-10.10\TreeBackground<|||>3<|||>536870911
+Servers\root@mariadb-10.10\SSHtunnelActive<|||>3<|||>0
+Servers\root@mariadb-10.10\SshExecutable<|||>1<|||>
+Servers\root@mariadb-10.10\SSHtunnelHost<|||>1<|||>
+Servers\root@mariadb-10.10\SSHtunnelHostPort<|||>3<|||>22
+Servers\root@mariadb-10.10\SSHtunnelUser<|||>1<|||>
+Servers\root@mariadb-10.10\SSHtunnelPassword<|||>1<|||>6
+Servers\root@mariadb-10.10\SSHtunnelTimeout<|||>3<|||>4
+Servers\root@mariadb-10.10\SSHtunnelPrivateKey<|||>1<|||>
+Servers\root@mariadb-10.10\SSHtunnelPort<|||>3<|||>3307
+Servers\root@mariadb-10.10\SSL_Active<|||>3<|||>0
+Servers\root@mariadb-10.10\SSL_Key<|||>1<|||>
+Servers\root@mariadb-10.10\SSL_Cert<|||>1<|||>
+Servers\root@mariadb-10.10\SSL_CA<|||>1<|||>
+Servers\root@mariadb-10.10\SSL_Cipher<|||>1<|||>
+Servers\root@mariadb-10.10\IgnoreDatabasePattern<|||>1<|||>
+Servers\root@mariadb-10.10\LogFileDdl<|||>3<|||>0
+Servers\root@mariadb-10.10\LogFileDml<|||>3<|||>0
+Servers\root@mariadb-10.10\LogFilePath<|||>1<|||>C:\Users\Rescenic\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\root@mariadb-10.10\ServerVersionFull<|||>1<|||>10.10.2-MariaDB-log - mariadb.org binary distribution
+Servers\root@mariadb-10.10\ConnectCount<|||>3<|||>1
+Servers\root@mariadb-10.10\ServerVersion<|||>3<|||>101002
+Servers\root@mariadb-10.10\LastConnect<|||>1<|||>2023-01-21 21:22:36
+Servers\root@mariadb-10.10\lastUsedDB<|||>1<|||>performance_schema

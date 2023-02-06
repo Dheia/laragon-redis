@@ -1,0 +1,9 @@
+just in case you need specific SSL for https protocol in local development
+
+you can create a self signed-in certificate via https://certificatetools.com/
+add DNS for your local domain
+open cert.mgr, add your cert in trusted root certificate
+add your local domain to hosts file
+test in your browser using https://
+for a side note,
+when you activate SSL via Laragon, it will automate all the process in your PC.
